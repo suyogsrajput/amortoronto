@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'iCiel Rukola';
+	src: url(../../assets/fonts/iCielRukola.woff2) format('woff2'),
+	url(../../assets/fonts/iCielRukola.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
